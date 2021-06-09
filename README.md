@@ -19,6 +19,7 @@ If you have any problem, please feel free to open an issue or send an email to u
 
 
 ## 文件目录
+## 文件目录
 ```
 
 │  Dockerfile
@@ -36,10 +37,7 @@ If you have any problem, please feel free to open an issue or send an email to u
 │  model_nezha_pretrain.py
 │  ngram.py
 │  ngram_albert.py
-│  pretrain.sh
 │  run.sh
-│  test.sh
-│  train.sh
 │  utils.py
 └─user_data
     ├─logs
